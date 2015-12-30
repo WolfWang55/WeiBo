@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PersonalTableViewController.h
 //  Weibo
 //
 //  Created by LG on 15/12/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PersonalTableViewController : UITableViewController
 
 @end
-
